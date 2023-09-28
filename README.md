@@ -6,7 +6,7 @@
  <p align="center">
    
    <img src="https://img.shields.io/github/languages/count/vinisantosn/UML-e-POO-Java"/>
-   <img src="https://img.shields.io/github/repo-sizevinisantosn/UML-e-POO-Java"/>
+   <img src="https://img.shields.io/github/repo-size/vinisantosn/UML-e-POO-Java"/>
    <img src="https://img.shields.io/github/last-commit/vinisantosn/UML-e-POO-Java"/>
    <img src="https://img.shields.io/github/issues/vinisantosn/UML-e-POO-Java"/>
  
