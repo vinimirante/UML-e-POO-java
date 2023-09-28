@@ -39,11 +39,16 @@ O diagrama de classes UML representará as principais classes e interfaces do si
 
 Segue a imagem que sintetiza essas informações supracitadas. 🖼️
 
-![]()
+![](https://github.com/vinimirante/UML-e-POO-java/blob/master/images/Diagrama%20de%20classes%20-%20IPHONE.png)
+
+### Implementação em Java
+A implementação é realizada via código e pode ser vista no source do repositório.  
+
+Este projeto simples representa algumas das funcionalidades/aplicações básicas de um iPhone de 2007, como Ipod, telefone, reprodução de mídia e navegação web através de um browser. Observe que este é um projeto muito simplificado e não inclui todos os detalhes do sistema real do iPhone.
 
 
 
-[Mais informações sobre o desafio proposto...](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+[Mais informações sobre o desafio proposto...]([https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo))
 
 
 
